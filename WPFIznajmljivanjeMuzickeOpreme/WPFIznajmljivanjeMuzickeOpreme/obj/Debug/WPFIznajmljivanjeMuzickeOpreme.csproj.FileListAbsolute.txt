@@ -1,0 +1,30 @@
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\bin\Debug\WPFIznajmljivanjeMuzickeOpreme.exe.config
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\bin\Debug\WPFIznajmljivanjeMuzickeOpreme.exe
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\bin\Debug\WPFIznajmljivanjeMuzickeOpreme.pdb
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.csproj.AssemblyReference.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\MainWindow.g.cs
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\App.g.cs
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme_MarkupCompile.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme_MarkupCompile.lref
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\MainWindow.baml
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.g.resources
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.Properties.Resources.resources
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.csproj.GenerateResource.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.csproj.CoreCompileInputs.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.exe
+C:\Fakultet\Predmeti\Programski prevodioci\Programski prevodioci - Vuk Đaković SI 3-20\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.pdb
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\bin\Debug\WPFIznajmljivanjeMuzickeOpreme.exe.config
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\bin\Debug\WPFIznajmljivanjeMuzickeOpreme.exe
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\bin\Debug\WPFIznajmljivanjeMuzickeOpreme.pdb
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.csproj.AssemblyReference.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\MainWindow.g.cs
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\App.g.cs
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme_MarkupCompile.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme_MarkupCompile.lref
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\MainWindow.baml
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.g.resources
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.Properties.Resources.resources
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.csproj.GenerateResource.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.csproj.CoreCompileInputs.cache
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.exe
+C:\Fakultet\Predmeti\Programski prevodioci\Seminarski rad PP\WPFIznajmljivanjeMuzickeOpreme\WPFIznajmljivanjeMuzickeOpreme\obj\Debug\WPFIznajmljivanjeMuzickeOpreme.pdb
